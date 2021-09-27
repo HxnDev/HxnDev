@@ -28,11 +28,6 @@
    <a href="https://github.com/HxnDev"><img alt="Hxn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HxnDev&custom_title=Hassan%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-## Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/HxnDev/hxnDev/blob/output/github-contribution-grid-snake.gif)
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
