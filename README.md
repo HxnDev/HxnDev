@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="HxnDev" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HxnDev&theme=algolia" alt="HxnDev"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sana&theme=algolia" alt="HxnDev"  /></p>
 
 ## 💻 GitHub Profile Stats:
 
