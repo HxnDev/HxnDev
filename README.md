@@ -61,8 +61,14 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HxnDev&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
----
-![Snake animation](https://raw.githubusercontent.com/{HxnDev}/{HxnDev}/output/github-contribution-grid-snake-dark.svg)
+
+
+
+<h2 align="center"> ✍️ Random Dev Quotes</h2>
+<div align="center">
+	
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ## 📫 Contact Me: 
 <p align="center">
