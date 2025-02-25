@@ -62,6 +62,7 @@
 </div>
 
 ---
+![Snake animation](https://raw.githubusercontent.com/{HxnDev}/{HxnDev}/output/github-contribution-grid-snake-dark.svg)
 
 ## 📫 Contact Me: 
 <p align="center">
