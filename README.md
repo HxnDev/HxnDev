@@ -70,6 +70,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 
+<div align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HxnDev/HxnDev/output/github-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HxnDev/HxnDev/output/github-snake.svg" />
+	  <img alt="github-snake" src="https://raw.githubusercontent.com/HxnDev/HxnDev/output/github-snake.svg" />
+	</picture>
+</div>
+
 ## 📫 Contact Me: 
 <p align="center">
 	<a href="mailto:hassanshahzad.dev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
