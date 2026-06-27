@@ -28,87 +28,6 @@
   <a href="https://github.com/HxnDev"><img src="https://img.shields.io/github/stars/HxnDev?label=Stars&style=for-the-badge&color=FFEB95&labelColor=0D1117&logo=github" alt="Stars" /></a>
 </p>
 
-<!-- ───────────────────────────── ABOUT ───────────────────────────────── -->
-<h2 align="center">⚡ whoami</h2>
-
-<p align="center"><i>Senior full-stack engineer who designs and ships interfaces that feel inevitable.</i></p>
-
-```ts
-const hassan: Engineer = {
-  role:      "Senior Full-Stack Engineer",
-  based:     "Geneva, Switzerland 🇨🇭",
-  past:      ["IBM · Lead Full-Stack", "EPFL · Senior Full-Stack", "AICA · Frontend"],
-  shipping:  ["jobfit.hxndev.com", "jobs.hxndev.com", "recipes.hxndev.com"],
-  stack:     ["React", "TypeScript", "Node", "Python", "Go", "AWS", "WebGL / GLSL"],
-  craft:     "complex systems → interfaces that feel alive",
-  numbers:   { years: "6+", projects: "40+", companies: 5, certs: "80+" },
-  learning:  "always, on purpose",
-};
-```
-
-<!-- ──────────────────────────── TECH STACK ───────────────────────────── -->
-<h2 align="center">🧰 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,java,cpp,rust&theme=dark&perline=7" alt="Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,threejs,tailwind,redux,html,css&theme=dark&perline=8" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,fastapi,graphql,postgres,supabase&theme=dark&perline=8" alt="Backend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,redis,mongodb,git,figma&theme=dark&perline=8" alt="DevOps & Tools" />
-</p>
-
-<!-- ────────────────────────── FEATURED PROJECTS ──────────────────────── -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/HxnDev/JobFit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HxnDev&repo=JobFit&show_owner=true&hide_border=true&title_color=79D3C3&text_color=C9D1D9&icon_color=C792EA&bg_color=0D1117" alt="JobFit" />
-      </a>
-      <p align="center"><a href="https://jobfit.hxndev.com">🔗 jobfit.hxndev.com</a></p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HxnDev/BiteBook">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HxnDev&repo=BiteBook&show_owner=true&hide_border=true&title_color=79D3C3&text_color=C9D1D9&icon_color=C792EA&bg_color=0D1117" alt="BiteBook" />
-      </a>
-      <p align="center"><a href="https://recipes.hxndev.com">🔗 recipes.hxndev.com</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/HxnDev/Event-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HxnDev&repo=Event-Management-System&show_owner=true&hide_border=true&title_color=79D3C3&text_color=C9D1D9&icon_color=C792EA&bg_color=0D1117" alt="Event Management System" />
-      </a>
-      <p align="center">⭐ 94 · Java · Spring Boot</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HxnDev/Virtual-Mouse-using-OpenCV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HxnDev&repo=Virtual-Mouse-using-OpenCV&show_owner=true&hide_border=true&title_color=79D3C3&text_color=C9D1D9&icon_color=C792EA&bg_color=0D1117" alt="Virtual Mouse using OpenCV" />
-      </a>
-      <p align="center">⭐ 62 · Python · Computer Vision</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/HxnDev/Virtual-Drag-And-Drop-Using-OpenCV">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HxnDev&repo=Virtual-Drag-And-Drop-Using-OpenCV&show_owner=true&hide_border=true&title_color=79D3C3&text_color=C9D1D9&icon_color=C792EA&bg_color=0D1117" alt="Virtual Drag and Drop" />
-      </a>
-      <p align="center">⭐ 35 · Python · MediaPipe</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/HxnDev/Graphical-Password-Authentication-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HxnDev&repo=Graphical-Password-Authentication-System&show_owner=true&hide_border=true&title_color=79D3C3&text_color=C9D1D9&icon_color=C792EA&bg_color=0D1117" alt="Graphical Password Authentication" />
-      </a>
-      <p align="center">⭐ 23 · Python · Security</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://github.com/HxnDev?tab=repositories"><img src="https://img.shields.io/badge/See%20all%2050%2B%20repos-0D1117?style=for-the-badge&logo=github&logoColor=79D3C3" alt="All repos" /></a></p>
-
 <!-- ───────────────────────────── STATS ───────────────────────────────── -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -128,10 +47,6 @@ const hassan: Engineer = {
 </p>
 
 <!-- ──────────────────────────── SUMMARY CARDS ────────────────────────── -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HxnDev&theme=tokyonight" alt="Profile details" width="100%" />
-</p>
-
 <table width="100%">
   <tr>
     <td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HxnDev&theme=tokyonight" alt="Repos per language" /></td>
@@ -148,17 +63,6 @@ const hassan: Engineer = {
 <p align="center">
   <img src="https://raw.githubusercontent.com/HxnDev/HxnDev/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution calendar" />
 </p>
-
-<!-- ───────────────────────────── TROPHIES ────────────────────────────── -->
-<!-- NOTE: github-profile-trophy is currently rate-limited (HTTP 402) on THEIR
-     servers (a recurring quota outage, not your config). Un-comment this block
-     once their service recovers and the image will work again. -->
-<!--
-<h2 align="center">🏆 Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HxnDev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
-</p>
--->
 
 <!-- ───────────────────────── ACTIVITY GRAPH ──────────────────────────── -->
 <h2 align="center">📈 Contribution Graph</h2>
@@ -210,45 +114,17 @@ const hassan: Engineer = {
 
 <!-- ───────────────────────────── FOOTER ──────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,50:134E4A,100:0D1117&height=140&section=footer&text=Let's%20build%20something%20alive.&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="footer" />
-
 <p align="center"><i>Thanks for scrolling 🌊 — find me at <a href="https://hxndev.com">hxndev.com</a></i></p>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  SETUP NOTES (delete this whole block before/after publishing)        -->
-<!--                                                                       -->
-<!--  WORKFLOWS NEEDED:                                                     -->
-<!--   1. Snake  → already live ("generate animation" workflow). Nothing   -->
-<!--      to do. Outputs: output branch /github-snake*.svg                 -->
-<!--                                                                       -->
-<!--   2. 3D Contribution Calendar → add this NEW file to your profile     -->
-<!--      repo at:  .github/workflows/profile-3d.yml                       -->
-<!--      then run it once: Actions -> GitHub-Profile-3D-Contrib -> Run.   -->
-<!--      It commits SVGs to main under profile-3d-contrib/.               -->
-<!--                                                                       -->
-<!--   .github/workflows/profile-3d.yml                                    -->
-<!--   ------------------------------------------------------------------  -->
-<!--   name: GitHub-Profile-3D-Contrib                                     -->
-<!--   on:                                                                 -->
-<!--     schedule:                                                         -->
-<!--       - cron: "0 18 * * *"                                            -->
-<!--     workflow_dispatch:                                                -->
-<!--   permissions:                                                        -->
-<!--     contents: write                                                   -->
-<!--   jobs:                                                               -->
-<!--     build:                                                            -->
-<!--       runs-on: ubuntu-latest                                          -->
-<!--       steps:                                                          -->
-<!--         - uses: actions/checkout@v4                                   -->
-<!--         - uses: yoshi389111/github-profile-3d-contrib@latest          -->
-<!--           env:                                                        -->
-<!--             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                 -->
-<!--             USERNAME: ${{ github.repository_owner }}                  -->
-<!--         - name: Commit & Push                                         -->
-<!--           run: |                                                      -->
-<!--             git config user.name github-actions                       -->
-<!--             git config user.email github-actions@github.com           -->
-<!--             git add -A .                                              -->
-<!--             git commit -m "3d contrib" || exit 0                      -->
-<!--             git push                                                  -->
-<!--   ------------------------------------------------------------------  -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ──────────────────────────── TECH STACK ───────────────────────────── -->
+<h2 align="center">🧰 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,java,cpp,rust&theme=dark&perline=7" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,threejs,tailwind,redux,html,css&theme=dark&perline=8" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,fastapi,graphql,postgres,supabase&theme=dark&perline=8" alt="Backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,redis,mongodb,git,figma&theme=dark&perline=8" alt="DevOps & Tools" />
+</p>
