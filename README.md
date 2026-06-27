@@ -12,7 +12,7 @@
 <!-- ──────────────────────────── TYPING ───────────────────────────────── -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=79D3C3&center=true&vCenter=true&width=640&height=55&lines=Senior+Full-Stack+Engineer+%2F+Geneva%2C+CH;Software%2C+engineered+to+feel+alive.;ex-IBM+%C2%B7+EPFL+%C2%B7+AICA;I+ship+award-grade+interfaces;Hand-written+GLSL%2C+driven+by+your+scroll;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=79D3C3&center=true&vCenter=true&width=640&height=55&lines=Senior+Full-Stack+Engineer+%2F+Geneva%2C+CH;Software%2C+engineered+to+feel+alive.;IBM+%C2%B7+EPFL+%C2%B7+AICA;I+ship+award-grade+interfaces;Hand-written+GLSL%2C+driven+by+your+scroll;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
